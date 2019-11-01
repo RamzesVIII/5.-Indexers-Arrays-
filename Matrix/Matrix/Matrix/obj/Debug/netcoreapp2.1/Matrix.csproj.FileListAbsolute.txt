@@ -1,0 +1,11 @@
+D:\C#\Programming\C# practice\5.-Indexers-Arrays-\Matrix\Matrix\Matrix\bin\Debug\netcoreapp2.1\Matrix.deps.json
+D:\C#\Programming\C# practice\5.-Indexers-Arrays-\Matrix\Matrix\Matrix\bin\Debug\netcoreapp2.1\Matrix.runtimeconfig.json
+D:\C#\Programming\C# practice\5.-Indexers-Arrays-\Matrix\Matrix\Matrix\bin\Debug\netcoreapp2.1\Matrix.runtimeconfig.dev.json
+D:\C#\Programming\C# practice\5.-Indexers-Arrays-\Matrix\Matrix\Matrix\bin\Debug\netcoreapp2.1\Matrix.dll
+D:\C#\Programming\C# practice\5.-Indexers-Arrays-\Matrix\Matrix\Matrix\bin\Debug\netcoreapp2.1\Matrix.pdb
+D:\C#\Programming\C# practice\5.-Indexers-Arrays-\Matrix\Matrix\Matrix\obj\Debug\netcoreapp2.1\Matrix.csprojAssemblyReference.cache
+D:\C#\Programming\C# practice\5.-Indexers-Arrays-\Matrix\Matrix\Matrix\obj\Debug\netcoreapp2.1\Matrix.csproj.CoreCompileInputs.cache
+D:\C#\Programming\C# practice\5.-Indexers-Arrays-\Matrix\Matrix\Matrix\obj\Debug\netcoreapp2.1\Matrix.AssemblyInfoInputs.cache
+D:\C#\Programming\C# practice\5.-Indexers-Arrays-\Matrix\Matrix\Matrix\obj\Debug\netcoreapp2.1\Matrix.AssemblyInfo.cs
+D:\C#\Programming\C# practice\5.-Indexers-Arrays-\Matrix\Matrix\Matrix\obj\Debug\netcoreapp2.1\Matrix.dll
+D:\C#\Programming\C# practice\5.-Indexers-Arrays-\Matrix\Matrix\Matrix\obj\Debug\netcoreapp2.1\Matrix.pdb
