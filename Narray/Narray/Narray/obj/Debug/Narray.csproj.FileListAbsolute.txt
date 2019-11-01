@@ -1,0 +1,7 @@
+E:\C#\Practice\C# Essential\5. Indexers\Narray\Narray\Narray\bin\Debug\Narray.exe.config
+E:\C#\Practice\C# Essential\5. Indexers\Narray\Narray\Narray\bin\Debug\Narray.exe
+E:\C#\Practice\C# Essential\5. Indexers\Narray\Narray\Narray\bin\Debug\Narray.pdb
+E:\C#\Practice\C# Essential\5. Indexers\Narray\Narray\Narray\obj\Debug\Narray.csprojAssemblyReference.cache
+E:\C#\Practice\C# Essential\5. Indexers\Narray\Narray\Narray\obj\Debug\Narray.csproj.CoreCompileInputs.cache
+E:\C#\Practice\C# Essential\5. Indexers\Narray\Narray\Narray\obj\Debug\Narray.exe
+E:\C#\Practice\C# Essential\5. Indexers\Narray\Narray\Narray\obj\Debug\Narray.pdb
