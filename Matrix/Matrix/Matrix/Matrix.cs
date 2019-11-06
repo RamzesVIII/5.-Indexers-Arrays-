@@ -39,5 +39,14 @@ namespace Matrix
                 Console.WriteLine();
             }
         }
+
+        public void CangeMatrix ()
+        {
+            Console.WriteLine("Введите новое количество строк и столбцов матрицы :");
+            
+            row = Convert.ToInt32(Console.ReadLine());
+            col = Convert.ToInt32(Console.ReadLine());
+            matrix = new int[row, col];
+        }
     }
 }
