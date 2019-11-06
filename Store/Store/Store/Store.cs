@@ -9,6 +9,7 @@ namespace Store
     class Store
     {
         private Article[] mystore = new Article[5];
+        
 
         public Store ()
         {
@@ -19,13 +20,34 @@ namespace Store
             mystore[4] = new Article("monitor", "lg", 300);
         }
 
-        public Article this [int index]
+        public string this [int index]
         {
-            get { return mystore[index]; }
-            set {
-
-                mystore[index] = value;
+           get
+            {
+                if (index >= 0 && index < mystore.Length)
+                {
+                    return mystore[index].Show();
                 }
+                return "Попытка обращения за пределы массива.";
+            }
+
         }
+
+    public string this [string index]
+        {
+            get
+            {
+                for (int i = 0; i < mystore.Length; i++)
+                {
+                    if (mystore[i].Article_ == index)
+                    {
+                        return mystore[i].Show();
+                    }
+                    
+                }
+                return string.Format("{0} - нет в наличии", index);
+            }
+        }
+        
     }
 }
